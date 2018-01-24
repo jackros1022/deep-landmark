@@ -1,6 +1,5 @@
 deep-landmark
 =============
- test 2018年1月24日
 Predict facial landmarks with Deep CNNs powered by Caffe.
 
 This project is a reimplementation of the paper Deep Convolutional Network Cascade for Facial Point Detection.
